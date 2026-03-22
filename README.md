@@ -1,5 +1,8 @@
 # Superstore Sales Dashboard
 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://superstore-dashboard-bjxm2tprez6np3hha4b6nj.streamlit.app)
+
 An interactive sales analytics dashboard built with Python, SQL, and Streamlit — analyzing 9,994 retail transactions across the U.S.
 
 ## Features
