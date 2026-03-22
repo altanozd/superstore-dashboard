@@ -1,0 +1,6 @@
+.env
+superstore.db
+Superstore.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
